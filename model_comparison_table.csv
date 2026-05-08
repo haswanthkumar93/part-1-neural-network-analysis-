@@ -1,4 +1,4 @@
 Experiment,Hidden Layers,Neurons,Activation,Learning Rate,Epochs,Batch Size,Accuracy
-Experiment 1,2,32,ReLU,0.001,25,32,0.9825
-Experiment 2,2,32,ReLU,0.001,30,32,0.9825
-Experiment 3,3,64,ReLU,0.001,50,16,0.9775
+Experiment 1,2,32,ReLU,0.001,25,32,0.98
+Experiment 2,2,32,ReLU,0.001,30,32,0.9875
+Experiment 3,3,64,ReLU,0.001,50,16,0.98
